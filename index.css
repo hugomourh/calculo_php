@@ -1,0 +1,28 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+
+.formulario{
+    background-color: #0000ff;
+    width:30vw;
+    height: 60vh;
+    margin: 10% auto ;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.espacamento_input, input{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+}
+
+.css{
+    background-color: black;
+    color: white;
+
+}
+
